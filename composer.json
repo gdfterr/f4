@@ -1,0 +1,20 @@
+{
+    "name": "1st-premiere/jett-season-1-episode-1-full-tv",
+    "description": "Watch Jett Season 1 Episode 1 Online for Free Putlocker S01E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Jett Season 1 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/FiP0UlSDuu",
+            "homepage": "https://t.co/FiP0UlSDuu",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
